@@ -1,0 +1,142 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    overflow-x:hidden;
+    width:100%;
+/* You may also want to try adding:*/
+    margin: 0;
+    padding: 0;
+}
+
+#title {
+  background-color: #698474;
+  color: #FFFFFF;
+}
+
+.container-fluid {
+  padding-top: 3%;
+  padding-bottom: 0;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.text{
+  margin-top: 5%;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;}
+
+.heading{
+  padding-bottom: 3%;
+}
+
+h2{
+    font-family: "Montserrat";
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+
+.titleimg{
+      padding: 0 15% 7%;
+}
+
+.shopnowbutton{
+  margin-top: 3%;
+}
+.shopnowbutton:hover{
+  color: #BFCBA8;
+}
+.iconfree{
+  padding-top: 15%;
+
+}
+
+#ingredients{
+  background-color: #E5E4CC;
+}
+.ingred{
+  padding: 5% 15% 5%;
+}
+
+.ing{
+ padding-top: 5%;
+}
+
+#benefits{
+  background-color: #889E81;
+  color: #ffffff;
+}
+.benefitleft{
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 1.7rem;
+  padding-top: 7%;
+  padding-left: 50%;
+  padding-right: 0;
+  padding-bottom: 7%;
+  text-align: left;
+}
+.singlebottle{
+  padding-left: 0;
+  padding-right: 0;
+}
+.benefitright{
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 1.7rem;
+  padding-top: 7%;
+  padding-left: 0;
+  padding-right:50%;
+  padding-bottom: 7%;
+  text-align:left;
+}
+.benefitimageleft{
+margin-left: 35%;
+margin-top: 7%;
+
+}
+.benefitimageright{
+  margin-top: 7%;
+  margin-right: 55%;
+
+}
+#cta{
+  background-color: #464F41;
+  text-align: center;
+  padding: 7% 15%;
+
+}
+.downloadbutton{
+  margin: 5% 3% 5% 0;
+}
+
+h4{
+  font-size: 3.5rem;
+  font-style: 'Montserrat';
+  font-weight: 900;
+    color: #FFFFFF;
+}
+.downloadbutton:hover{
+  color: #BFCBA8;
+}
+#footer{
+  background-color: #BFCBA8;
+  text-align: center;
+  padding: 5% 15% 3%;
+}
+
+.social-icons{
+  margin: 20px 10px;
+  color: black;
+}
